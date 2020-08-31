@@ -67,6 +67,17 @@ li{
   right: 93px;
 }
 
+.capa button{
+  margin-top: 25px;
+  width: 225px;
+  background-color: #D2872C;
+  border: 0;
+  color: #ffff;
+  font-size: 21px;
+  border-radius: 15px;
+  padding: 15px;
+}
+
 /* PARA TABLET */
 @media only screen and (min-width: 768px) and (max-width: 960px) {
   
